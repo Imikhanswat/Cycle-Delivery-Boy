@@ -57,7 +57,7 @@
   </files>
   <settings>
     <setting name="androidAbis" value="arm64-v8a,armeabi-v7a,x86,x86_64" />
-    <setting name="bundleId" value="com.Deliveryboy.cycle.ride" />
+    <setting name="bundleId" value="com.food.delivery.boy.cycle.ride" />
     <setting name="explodeAars" value="True" />
     <setting name="gradleBuildEnabled" value="True" />
     <setting name="gradlePropertiesTemplateEnabled" value="False" />

@@ -938,7 +938,7 @@ MonoBehaviour:
   AdmobInterstitialID: ca-app-pub-1382105075325654/5646812763
   AdmobRewardedID: ca-app-pub-1382105075325654/2539435138
   AdmobRewardedInterstitialID: ca-app-pub-1382105075325654/2661556775
-  TestAds: 1
+  TestAds: 0
 --- !u!4 &2033990459
 Transform:
   m_ObjectHideFlags: 0
